@@ -2,6 +2,7 @@
 - [Współczesna gra: pionki czy partnerzy?](post/game.md)
 - [Czy życie to tylko proces? I jaka jest jego wartość?](post/process.md)
 - [U.G. Krishnamurti i paradoks relacji międzyludzkich](post/relationships.md)
+- [Myśli](post/thoughts.md)
 - Linki
     - [Linki](post/links.md)
     - [Oglądnij potem ?](post/later.md)
